@@ -1,25 +1,35 @@
-# 💳 Banking System Simulator
+# Banking System Simulator 🏦
 
-A command-line banking system simulator built with Python using Object-Oriented Programming (OOP) principles.
+A simple banking system simulator built with Python using Object-Oriented Programming (OOP) principles.
 
 ## 📌 Features
 
-- Create bank accounts
+- Create customers
+- Open checking or savings accounts
 - Deposit and withdraw money
-- View account balances
-- Track transaction history
-- Simple CLI menu for user interaction
+- Transfer funds between accounts
 
-## 🧠 OOP Concepts Used
+## 🚀 How to Run
 
-- Classes
-- Inheritance
-- Polymorphism
-- File I/O
+Make sure you have Python 3 installed, then run:
 
-## 🛠 Technologies
+```bash
+python main.py
+🛠️ Technologies Used
+Python 3
 
-- Python 3.x
-- Standard Library only (no external dependencies)
+OOP: Classes, Inheritance, Encapsulation
 
-## 🧪 Example
+Command-line interface (CLI)
+
+📂 Project Structure
+css
+banking-system-simulator/
+├── main.py
+├── README.md
+└── (Other files to be added later)
+📖 About the Project
+This project was built as a personal exercise to practice OOP in Python. It includes basic functionalities of a banking system implemented in a simple and readable way.
+
+🤝 Contributing
+Feel free to fork the repository, make improvements, and open a pull request. Any suggestions are welcome!
